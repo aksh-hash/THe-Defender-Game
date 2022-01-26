@@ -1,7 +1,7 @@
 # THe-Defender-Game
 a fun game coded in java implementing various oops concept
 
-Its a simple kill-enemy game , where the defender is equipped with defender tools to fight the emenies.
+Its a simple kill-enemy game , where the defender is equipped with defender tools to fight the enemies.
 
 HOW TO RUN THE GAME :
 1. Using Eclipse IDE : clone to source code to your eclipse IDE and run the source code.
