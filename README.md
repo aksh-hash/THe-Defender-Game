@@ -14,6 +14,10 @@ HOW TO PLAY :
 4. and you are ready to play. 
 
 UI interface: for the movement of objects on the screen , images are used , which show the position and view of objects at different angles.
+               a timer is also set to claculate the time user survived.
+               slso a health index of the player is monitored .
+               the position of the player is also shown on the screen.
+               after the game finishes, a window pops up displaying the time taken and the score obtained.
 
 OOPs Concept : Inheritance , Multithredding, Exception Handling, Files, Strings.
 Librarties Used : swing, awt, JPanel , string.
