@@ -5,7 +5,7 @@ Its a simple kill-enemy game , where the defender is equipped with defender tool
 
 HOW TO RUN THE GAME :
 1. Using Eclipse IDE : clone to source code to your eclipse IDE and run the source code.
-2. Download The Defender.zip file from the repo.
+2. Download The Defender Game.zip file from the repo, and run on eclipse IDE.
 3. Execuitable JAR file: download the jar file to your system and run the game.
 
 HOW TO PLAY :
