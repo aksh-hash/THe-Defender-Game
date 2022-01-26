@@ -23,3 +23,4 @@ UI interface: for the movement of objects on the screen , images are used , whic
 OOPs Concept : Inheritance , Multithredding, Exception Handling, Files, Strings.
 Librarties Used : swing, awt, JPanel , string.
 
+The Game UI sreen :[Game UI screen.pdf](https://github.com/aksh-hash/THe-Defender-Game/files/7939900/Game.UI.screen.pdf)
